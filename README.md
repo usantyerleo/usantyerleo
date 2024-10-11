@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e079e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Leonardo+Martins;I'm+22+years+old;I'm+from+Brazil;I'm+a+ADS+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e079&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Leonardo+Martins;I'm+22+years+old;I'm+from+Brazil;I'm+a+ADS+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=usantyerleo&show_icons=true&count_private=true&hide_border=true&title_color=0e079e&icon_color=0e079&text_color=0e079&bg_color=0e079" alt="Leonardo Martins github stats" /> 
